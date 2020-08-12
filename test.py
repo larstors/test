@@ -5,4 +5,4 @@ print("my ass")
 print("my ass")
 print("my ass")
 print("my ass")
-import matplotlib.pyplot as plt
+import sys
